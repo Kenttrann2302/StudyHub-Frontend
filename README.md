@@ -1,1 +1,1 @@
-# Studyhub-FrontEnd
+# Studyhub-Frontend
