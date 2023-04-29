@@ -1,0 +1,21 @@
+.textInputContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;   
+}
+
+#textInputBox{
+    width: 400px;
+    height: 32px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 2px;
+    padding: 4px 10px;
+}
+.textInputLabel {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.85);
+}
